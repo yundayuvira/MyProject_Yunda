@@ -1,1 +1,1 @@
-Belajar git ignore
+Belajar ignore
